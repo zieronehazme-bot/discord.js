@@ -1,7 +1,7 @@
 const { REST, Routes, SlashCommandBuilder } = require('discord.js');
 
-const token = 'YOUR_BOT_TOKEN_HERE';
-const clientId = 'YOUR_APPLICATION_ID_HERE'; // From Developer Portal → General Information
+const token = 'MTUyMDMwMjI5ODQxNTM2NjMyNA.G4ov-L.3cTwbgM7NU2rQk0OIexmSUmvGG-Voe51IhW5eM';
+const clientId = '1520302298415366324'; // From Developer Portal → General Information
 const guildId = 'YOUR_SERVER_ID_HERE';       // Optional: put your server ID for instant update
 
 const commands = [
